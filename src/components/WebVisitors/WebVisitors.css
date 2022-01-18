@@ -1,0 +1,11 @@
+ .WebVisitors {
+  background-color: rgb(197, 196, 196);
+  margin: 20px;
+}
+
+.box {
+  height: 16rem;
+  width: 60rem;
+  background-color: rgb(172, 172, 172);
+  margin: 40px;
+} 

@@ -1,0 +1,9 @@
+.numList{
+  list-style-type: none;
+  font-weight: bold;
+}
+
+.SentiAnaly{
+  background-color: rgb(197, 196, 196);
+  margin: 20px;
+}
